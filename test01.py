@@ -1,1 +1,1 @@
-print('python-izmaabb')
+print('python-izm')
